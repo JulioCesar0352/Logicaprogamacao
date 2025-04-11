@@ -1,0 +1,23 @@
+namespace Julio César Ferreira de Souza
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("iniciando preparo do sanduíche...");
+            // Passo 1: Reunir Ingredientes
+            string[] ingredientes = { "pão", "Queijo", "Presunto");
+            Console.WriteLine("Reunindo ingredientes:" + string.Join(",", ingredientes));
+            // Passo 2: Montar o sanduíche
+            Console.WriteLine("Pegando uma fatia de pão.");
+            Console.WriteLine("Adiconando queijo.");
+            Console.WriteLine("Adicionando presunto.");
+            Console.WriteLine("coloncando a outra fatia de pão por cima.");
+            // Passo #: Finalizar e servir
+            Console.WriteLine("cortando o sanduícheao meio.");
+            Console.WriteLine("sanduíche pronto! Servindo...");
+            Console.WriteLine("Fim do Processo<"):
+        }
+    }
+}
+   
